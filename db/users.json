@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "username": "Ali",
+    "phone": "1234567890"
+  },
+  {
+    "id": 2,
+    "username": "Anvar",
+    "telephone": "+998901234567"
+  }
+]

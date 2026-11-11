@@ -1,0 +1,13 @@
+$kind: http-request
+url: http://localhost:3000/api/clients
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \  \"username\": \"Anvar\",\r
+
+    \  \"telephone\": \"+998901234567\"\r
+
+    }\r\n"
+order: 3000
